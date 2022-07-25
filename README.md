@@ -1,4 +1,4 @@
-# instument-pitch
+# instrument-pitch
 A command line tool for determining the pitch and volume of an instrument
 
 Here's the demo:
